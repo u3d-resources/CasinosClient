@@ -28,6 +28,11 @@
 - https://github.com/Tencent/xLua
 - https://www.getui.com/cn/index.html
 
+
+### 多语言库
+- https://github.com/u3d-resources/CasinosLanguages
+
+
 ### 果派德州联系方式
 - 微信：xiaolidog
 - Email：lion@cragon.cn
